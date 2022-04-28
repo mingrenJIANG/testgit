@@ -1,0 +1,304 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://www.linuxcool.com/",
+            "path": "index.html",
+            "saved": true,
+            "size": 36591,
+            "children": [
+                {
+                    "url": "https://www.linuxcool.com/wp-content/uploads/2021/12/cover.png",
+                    "path": "img/cover.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.linuxcool.com/wp-content/uploads/2020/02/Linux%E5%91%BD%E4%BB%A4%E5%A4%A7%E5%85%A8.jpg",
+                    "path": "img/Linux命令大全.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.linuxcool.com/wp-content/uploads/2021/12/cover-214x300.png",
+                    "path": "img/cover-214x300.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.linuxcool.com/wp-content/uploads/2021/12/cover-43x60.png",
+                    "path": "img/cover-43x60.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.linuxcool.com/wp-content/uploads/2021/12/cover-107x150.png",
+                    "path": "img/cover-107x150.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.linuxcool.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0",
+                    "path": "js/jquery.min.js",
+                    "saved": true,
+                    "size": 89521,
+                    "children": []
+                },
+                {
+                    "url": "https://www.linuxcool.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2",
+                    "path": "js/jquery-migrate.min.js",
+                    "saved": true,
+                    "size": 11224,
+                    "children": []
+                },
+                {
+                    "url": "https://www.linuxcool.com/wp-content/plugins/heroic-glossary/dist/ht-glossary-frontend.js",
+                    "path": "js/ht-glossary-frontend.js",
+                    "saved": true,
+                    "size": 3730,
+                    "children": []
+                },
+                {
+                    "url": "https://www.linuxcool.com/wp-content/plugins/heroic-table-of-contents/dist/script.min.js?ver=1626847760",
+                    "path": "js/script.min.js",
+                    "saved": true,
+                    "size": 813,
+                    "children": []
+                },
+                {
+                    "url": "https://www.linuxcool.com/wp-content/plugins/knowhow-tools/shortcodes//shortcodes.js?ver=5.9.3",
+                    "path": "js/shortcodes.js",
+                    "saved": true,
+                    "size": 5145,
+                    "children": []
+                },
+                {
+                    "url": "https://www.linuxcool.com/wp-content/themes/knowhow/js/functions.js?ver=5.9.3",
+                    "path": "js/functions.js",
+                    "saved": true,
+                    "size": 4630,
+                    "children": []
+                },
+                {
+                    "url": "https://www.linuxcool.com/wp-content/plugins/q2w3-fixed-widget/js/frontend.min.js?ver=6.0.5",
+                    "path": "js/frontend.min.js",
+                    "saved": true,
+                    "size": 17347,
+                    "children": []
+                },
+                {
+                    "url": "https://www.linuxcool.com/wp-content/themes/knowhow/js/jquery.livesearch.js?ver=5.9.3",
+                    "path": "js/jquery.livesearch.js",
+                    "saved": true,
+                    "size": 4873,
+                    "children": []
+                },
+                {
+                    "url": "https://www.linuxcool.com/wp-includes/css/dist/block-library/style.min.css?ver=5.9.3",
+                    "path": "css/style.min_2.css",
+                    "saved": true,
+                    "size": 83416,
+                    "children": []
+                },
+                {
+                    "url": "https://www.linuxcool.com/wp-includes/css/dist/components/style.min.css?ver=5.9.3",
+                    "path": "css/style.min_1.css",
+                    "saved": true,
+                    "size": 122415,
+                    "children": []
+                },
+                {
+                    "url": "https://www.linuxcool.com/wp-includes/css/dist/block-editor/style.min.css?ver=5.9.3",
+                    "path": "css/style.min_4.css",
+                    "saved": true,
+                    "size": 111974,
+                    "children": []
+                },
+                {
+                    "url": "https://www.linuxcool.com/wp-includes/css/dist/nux/style.min.css?ver=5.9.3",
+                    "path": "css/style.min.css",
+                    "saved": true,
+                    "size": 2768,
+                    "children": []
+                },
+                {
+                    "url": "https://www.linuxcool.com/wp-includes/css/dist/reusable-blocks/style.min.css?ver=5.9.3",
+                    "path": "css/style.min_3.css",
+                    "saved": true,
+                    "size": 522,
+                    "children": []
+                },
+                {
+                    "url": "https://www.linuxcool.com/wp-includes/css/dist/editor/style.min.css?ver=5.9.3",
+                    "path": "css/style.min_5.css",
+                    "saved": true,
+                    "size": 20826,
+                    "children": []
+                },
+                {
+                    "url": "https://www.linuxcool.com/wp-content/plugins/heroic-glossary/dist/blocks.style.build.css",
+                    "path": "css/blocks.style.build.css",
+                    "saved": true,
+                    "size": 1598,
+                    "children": []
+                },
+                {
+                    "url": "https://www.linuxcool.com/wp-content/plugins/heroic-table-of-contents/dist/blocks.style.build.css?ver=1626847760",
+                    "path": "css/blocks.style.build_1.css",
+                    "saved": true,
+                    "size": 2683,
+                    "children": []
+                },
+                {
+                    "url": "https://www.linuxcool.com/wp-content/plugins/knowhow-tools/shortcodes//shortcodes.css?ver=5.9.3",
+                    "path": "css/shortcodes.css",
+                    "saved": true,
+                    "size": 24226,
+                    "children": []
+                },
+                {
+                    "url": "https://www.linuxcool.com/wp-content/themes/knowhow/style.css?ver=5.9.3",
+                    "path": "css/style.css",
+                    "saved": true,
+                    "size": 49552,
+                    "children": []
+                },
+                {
+                    "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,700&subset=latin,latin-ext",
+                    "saved": false
+                },
+                {
+                    "url": "https://www.linuxcool.com/wp-content/themes/knowhow/css/font-awesome.min.css?ver=5.9.3",
+                    "path": "css/font-awesome.min.css",
+                    "saved": true,
+                    "size": 21951,
+                    "children": [
+                        {
+                            "url": "https://www.linuxcool.com/wp-content/themes/knowhow/fonts/fontawesome-webfont.eot?v=4.2.0",
+                            "path": "fonts/fontawesome-webfont_1.eot",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.linuxcool.com/wp-content/themes/knowhow/fonts/fontawesome-webfont.eot?#iefix&v=4.2.0",
+                            "path": "fonts/fontawesome-webfont.eot",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.linuxcool.com/wp-content/themes/knowhow/fonts/fontawesome-webfont.woff?v=4.2.0",
+                            "path": "fonts/fontawesome-webfont.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.linuxcool.com/wp-content/themes/knowhow/fonts/fontawesome-webfont.ttf?v=4.2.0",
+                            "path": "fonts/fontawesome-webfont.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.linuxcool.com/wp-content/themes/knowhow/fonts/fontawesome-webfont.svg?v=4.2.0#fontawesomeregular",
+                            "path": "img/fontawesome-webfont.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://www.linuxcool.com/wp-content/uploads/2019/03/cropped-redhat-32x32.png",
+                    "path": "img/cropped-redhat-32x32.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.linuxcool.com/wp-content/uploads/2019/03/cropped-redhat-192x192.png",
+                    "path": "img/cropped-redhat-192x192.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.linuxcool.com/wp-content/uploads/2019/03/cropped-redhat-180x180.png",
+                    "path": "img/cropped-redhat-180x180.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "www-linuxcool-com-7wy7k6c6",
+    "info": {
+        "remark": [],
+        "title": "Linux命令大全(手册) – 真正好用的Linux命令在线查询网站",
+        "domain": "www.linuxcool.com",
+        "origin": "https://www.linuxcool.com",
+        "ip": "58.215.145.110",
+        "main": "index.html",
+        "url": "https://www.linuxcool.com/",
+        "totalSize": "616 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://www.linuxcool.com/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://www.linuxcool.com/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "server": "Tengine",
+                "content-type": "text/html; charset=UTF-8",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "vary": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Cookie",
+                "date": "Thu, 21 Apr 2022 08:01:56 GMT",
+                "x-powered-by": "PHP/7.4.11",
+                "cache-control": "max-age=3, must-revalidate",
+                "ali-swift-global-savetime": "1650528116",
+                "via": "cache72.l2cn3001[175,175,200-0,M], cache5.l2cn3001[176,0], kunlun1.cn190[281,280,200-0,M], kunlun8.cn190[289,0]",
+                "x-cache": "MISS TCP_REFRESH_MISS dirn:9:273287634",
+                "x-swift-savetime": "Thu, 21 Apr 2022 08:01:56 GMT",
+                "x-swift-cachetime": "3",
+                "timing-allow-origin": "*",
+                "eagleid": "3ad7913a16505281159003007e"
+            }
+        },
+        "time": {
+            "start": "2022-04-21T08:01:55.488Z",
+            "end": "2022-04-21T08:02:02.702Z"
+        }
+    },
+    "options": {
+        "url": "https://www.linuxcool.com/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
